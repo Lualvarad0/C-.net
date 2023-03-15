@@ -1,0 +1,7 @@
+C:\Users\Luis Alvarado\source\repos\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\Luis Alvarado\source\repos\Funciones\bin\Debug\Funciones.exe
+C:\Users\Luis Alvarado\source\repos\Funciones\bin\Debug\Funciones.pdb
+C:\Users\Luis Alvarado\source\repos\Funciones\obj\Debug\Funciones.csprojAssemblyReference.cache
+C:\Users\Luis Alvarado\source\repos\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alvarado\source\repos\Funciones\obj\Debug\Funciones.exe
+C:\Users\Luis Alvarado\source\repos\Funciones\obj\Debug\Funciones.pdb
