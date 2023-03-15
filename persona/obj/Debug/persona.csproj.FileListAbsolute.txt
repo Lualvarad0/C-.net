@@ -1,0 +1,7 @@
+C:\Users\Luis Alvarado\source\repos\persona\bin\Debug\persona.exe.config
+C:\Users\Luis Alvarado\source\repos\persona\bin\Debug\persona.exe
+C:\Users\Luis Alvarado\source\repos\persona\bin\Debug\persona.pdb
+C:\Users\Luis Alvarado\source\repos\persona\obj\Debug\persona.csprojAssemblyReference.cache
+C:\Users\Luis Alvarado\source\repos\persona\obj\Debug\persona.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alvarado\source\repos\persona\obj\Debug\persona.exe
+C:\Users\Luis Alvarado\source\repos\persona\obj\Debug\persona.pdb
